@@ -1,13 +1,8 @@
- Student id :1341632
  Name : Vaishali Rameshrao Dhulshette
- Course number : COEN 275
- Assignment #1
  Date : 04/21/17
  Windows 10,JavaSe-1.8
- Eclipse IDE for Java Developers - Version: Neon.3 Release (4.6.3)
-	
-OUTPUT- 1. I have attached screenshots of the console. 
-	2. I have copy pasted the output in output.txt
+ Eclipse IDE for Java Developers - Version: Neon.3 Release (4.6.3
+ Developed classes (and interfaces) to implement a simple Home Thermostat System which enables a home-owner to control the heating and cooling of a home, based on the current temperature in the home (environment).
 
 To compile and run from command prompt , follow the instructions given below :
 
